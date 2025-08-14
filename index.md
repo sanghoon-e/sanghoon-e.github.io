@@ -44,8 +44,7 @@
     - Analysis log correlatation between device and cloud log
     - log visualization base on event transaction
 - **Tizen .NET TCT(Tizen Compliance Tests), 2016-2017**
-  - Initiation C# TCT (Include API Test docuement and testing guidelines)
-    - https://download.tizen.org/tct/6.0/CSharpTCT/CSharp_TCT_6.0_Tester_User_Guide_v1.0.pdf
+  - Initiation C# TCT (Include API Test docuement and [testing guidelines](https://download.tizen.org/tct/6.0/CSharpTCT/CSharp_TCT_6.0_Tester_User_Guide_v1.0.pdf))
   - Develop C# Func coverage tool and ABI Tool
   - Develop custom NUnit framework for Tizen
   - Test Automation
