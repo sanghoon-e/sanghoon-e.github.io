@@ -4,6 +4,7 @@
 - Contacts: lsh1516@gmail.com
 
 ## Techinical Skills
+- AI Agents for Software Testing
 - Professional Experience in Mobile Automated Testing
   - AI-based Android Testing
 - Log Analysis
