@@ -12,19 +12,19 @@
   - IoT log analysis
 - Professional Experience in API Testing
   - Led the whole design and setup of Tizen .NET [TCT](https://docs.tizen.org/platform/compliance/compliance-test/)(Tizen Compliance Test)
-    - https://download.tizen.org/tct/6.0/CSharpTCT/CSharp_TCT_6.0_Tester_User_Guide_v1.0.pdf
 - Software Architecture
 
 ## Education
-- MSc, Digital Media Communication Engineering: [Sungkyunkwan University](https://www.skku.edu/skku/index.do), South Korea (2024~)
+- MSc, Digital Media Communication Engineering: [Sungkyunkwan University](https://www.skku.edu/skku/index.do), South Korea (2024.03~2025.08)
   - Academic training program from Samsung Electronics
   - [Software Analysis Lab](https://sal.skku.edu/home)
-- BSc, Global Media: [Soongsil University](https://ssu.ac.kr/), South Korea (2007~2014)
+- BSc, Global Media: [Soongsil University](https://ssu.ac.kr/), South Korea (2007.03~2014.02)
 
 ## Work Experience
 
-- **LLM evaluation, 2025-Present**
-  - Develop an evaluation framework for LLMs (such as GAUSS, QWEN, GPT, Claude, etc.)
+- **AI for SE, SE for AI, 2025-Present**
+  - LLM Evaluation: Develop an evaluation framework for LLMs (such as GAUSS, QWEN, GPT, Claude, etc.)
+  - AI Agents for GUI Testing
 - **Automated UI Exploration Tool, 2022-Present**
   - AI-based automated exploration tool(like human)
 - **Anomaly log Analysis, 2021**
@@ -44,7 +44,8 @@
     - Analysis log correlatation between device and cloud log
     - log visualization base on event transaction
 - **Tizen .NET TCT(Tizen Compliance Tests), 2016-2017**
-  - Initiation C# TCT (Include API Test docuement and testing guidelines )
+  - Initiation C# TCT (Include API Test docuement and testing guidelines)
+    - https://download.tizen.org/tct/6.0/CSharpTCT/CSharp_TCT_6.0_Tester_User_Guide_v1.0.pdf
   - Develop C# Func coverage tool and ABI Tool
   - Develop custom NUnit framework for Tizen
   - Test Automation
