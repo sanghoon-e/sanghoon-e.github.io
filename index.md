@@ -11,6 +11,7 @@
   - IoT log analysis
 - Professional Experience in API Testing
   - Led the whole design and setup of Tizen .NET [TCT](https://docs.tizen.org/platform/compliance/compliance-test/)(Tizen Compliance Test)
+    - https://download.tizen.org/tct/6.0/CSharpTCT/CSharp_TCT_6.0_Tester_User_Guide_v1.0.pdf
 - Software Architecture
 
 ## Education
